@@ -31,7 +31,7 @@ print("I have a <" + computer_brand + "> computer.")
 name = "Paré Léandre Bénilde"
 age = 20
 shoe_size = 44
-info = "Hello je suis Paré Léandre Bénilde, j'ai 20ans, j'aime bien regarder les animés manga et je shots du 44."
+info = "Hello je suis {}, j'ai {} ans, j'aime bien regarder les animés manga et je shots du {}." .format(name, age, shoe_size)
 print(info)
 ### end exo
 
