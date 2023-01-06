@@ -9,6 +9,7 @@ else:
     print("Longueur de chaine exacte")
 # end if
 ###end exo
+print("\n\n")
 
 ###Exercise for
 mot = "Hello World"

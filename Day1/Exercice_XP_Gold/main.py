@@ -1,6 +1,7 @@
 ###Exercise1
 print("\nHello world" *4,"\nI love python" *4 )
 ### end exo
+print("\n\n")
 
 ###Exercise2
 mois = int(input("Entrer le numero du mois voulue \n\t Mois = "))

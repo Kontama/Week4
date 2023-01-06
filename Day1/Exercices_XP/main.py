@@ -3,11 +3,13 @@
 ### Exercise1
 print("Hello world\n" *4)
 ### end exo
+print("\n\n")
 
 ### Exercise2
 cal = (99^3) * 8
 print(cal)
 ### end exo
+print("\n\n")
 
 ### Exercise3
 print(5<3)
@@ -21,11 +23,13 @@ print("3">3)
 print("Hello"=="hello")
     #return false
 ### end exo
+print("\n\n")
 
 ### Exercise4
 computer_brand = "Hp EliteBook"
 print("I have a <" + computer_brand + "> computer.")
 ### end exo
+print("\n\n")
 
 ### Exercise5
 name = "Paré Léandre Bénilde"
@@ -34,6 +38,7 @@ shoe_size = 44
 info = "Hello je suis {}, j'ai {} ans, j'aime bien regarder les animés manga et je shots du {}." .format(name, age, shoe_size)
 print(info)
 ### end exo
+print("\n\n")
 
 ### Exercise6
 a = input("Entrer un nombre a = ")
@@ -42,6 +47,7 @@ if(a>b):
     print("Hello world!")
 # end if
 ### end exo
+print("\n\n")
 
 ### Exercise7
 parity = int (input("Entrer un nombre :\n\t\t nombre = "))
@@ -51,6 +57,7 @@ else:
     print("Le nombre",parity,"saisie est impair!")
 #end if
 ### end exo
+print("\n\n")
 
 ### Exercise8
 computer = "aomine"
@@ -61,6 +68,7 @@ else:
     print("Désolé mais vous avez un nom pourru 😁😁!!")
 # end if
 ### end exo
+print("\n\n")
 
 ### Exercise9
 taille = int(input("Combien mesurez-vous ? \n\t\t Taille(en cm) = "))
